@@ -1,4 +1,4 @@
 # PublicAssets
 
 Assets and Other files needed for other repositories are added here. 
-#NOT FOR PUBLIC USE
+Don't confuse with that name this repo is not for public use.
